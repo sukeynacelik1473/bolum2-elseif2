@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\bolum2-if else2\bolum2-if else2\bin\Debug\bolum2-if else2.exe.config
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\bolum2-if else2\bolum2-if else2\bin\Debug\bolum2-if else2.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\bolum2-if else2\bolum2-if else2\bin\Debug\bolum2-if else2.pdb
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\bolum2-if else2\bolum2-if else2\obj\Debug\bolum2-if else2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\bolum2-if else2\bolum2-if else2\obj\Debug\bolum2-if else2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\bolum2-if else2\bolum2-if else2\obj\Debug\bolum2_if_else2.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\bolum2-if else2\bolum2-if else2\obj\Debug\bolum2_if_else2.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\bolum2-if else2\bolum2-if else2\obj\Debug\bolum2-if else2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\bolum2-if else2\bolum2-if else2\obj\Debug\bolum2-if else2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\bolum2-if else2\bolum2-if else2\obj\Debug\bolum2-if else2.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\bolum2-if else2\bolum2-if else2\obj\Debug\bolum2-if else2.pdb
